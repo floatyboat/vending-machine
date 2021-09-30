@@ -1,0 +1,4 @@
+com\sg\vendingmachine\dao\VMDaoFileImplTest.class
+com\sg\vendingmachine\service\VMDaoStubImpl.class
+com\sg\vendingmachine\service\VMAuditDaoStubImpl.class
+com\sg\vendingmachine\service\VMServiceLayerImplTest.class

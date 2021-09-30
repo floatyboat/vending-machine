@@ -1,0 +1,16 @@
+com\sg\vendingmachine\App.class
+com\sg\vendingmachine\dao\VMDao.class
+com\sg\vendingmachine\dao\VMDaoFileImpl.class
+com\sg\vendingmachine\dao\VMPersistenceException.class
+com\sg\vendingmachine\ui\UserIOConsoleImpl.class
+com\sg\vendingmachine\ui\UserIO.class
+com\sg\vendingmachine\dto\Item.class
+com\sg\vendingmachine\ui\VMView.class
+com\sg\vendingmachine\service\VMServiceLayer.class
+com\sg\vendingmachine\service\InsufficientFundsException.class
+com\sg\vendingmachine\service\NoItemInventoryException.class
+com\sg\vendingmachine\service\VMServiceLayerImpl.class
+com\sg\vendingmachine\dao\VMAuditDaoFileImpl.class
+com\sg\vendingmachine\dto\Change.class
+com\sg\vendingmachine\controller\VMController.class
+com\sg\vendingmachine\dao\VMAuditDao.class
